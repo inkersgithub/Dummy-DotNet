@@ -1,0 +1,16 @@
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\bin\Debug\netstandard2.0\Tutorial.Models.deps.json
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\bin\Debug\netstandard2.0\Tutorial.Models.dll
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\bin\Debug\netstandard2.0\Tutorial.Models.pdb
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\obj\Debug\netstandard2.0\Tutorial.Models.csprojAssemblyReference.cache
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\obj\Debug\netstandard2.0\Tutorial.Models.AssemblyInfoInputs.cache
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\obj\Debug\netstandard2.0\Tutorial.Models.AssemblyInfo.cs
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\obj\Debug\netstandard2.0\Tutorial.Models.dll
+D:\Projects\Tutorial\EMahall-API\EMahall.Models\obj\Debug\netstandard2.0\Tutorial.Models.pdb
+D:\Projects\Tutorial\Dummy\Tutorial.Models\bin\Debug\netstandard2.0\Tutorial.Models.deps.json
+D:\Projects\Tutorial\Dummy\Tutorial.Models\bin\Debug\netstandard2.0\Tutorial.Models.dll
+D:\Projects\Tutorial\Dummy\Tutorial.Models\bin\Debug\netstandard2.0\Tutorial.Models.pdb
+D:\Projects\Tutorial\Dummy\Tutorial.Models\obj\Debug\netstandard2.0\Tutorial.Models.csprojAssemblyReference.cache
+D:\Projects\Tutorial\Dummy\Tutorial.Models\obj\Debug\netstandard2.0\Tutorial.Models.AssemblyInfoInputs.cache
+D:\Projects\Tutorial\Dummy\Tutorial.Models\obj\Debug\netstandard2.0\Tutorial.Models.AssemblyInfo.cs
+D:\Projects\Tutorial\Dummy\Tutorial.Models\obj\Debug\netstandard2.0\Tutorial.Models.dll
+D:\Projects\Tutorial\Dummy\Tutorial.Models\obj\Debug\netstandard2.0\Tutorial.Models.pdb

@@ -1,0 +1,8 @@
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\bin\Debug\netstandard2.0\EMahall.Configurations.deps.json
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\bin\Debug\netstandard2.0\EMahall.Configurations.dll
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\bin\Debug\netstandard2.0\EMahall.Configurations.pdb
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\obj\Debug\netstandard2.0\EMahall.Configurations.csprojAssemblyReference.cache
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\obj\Debug\netstandard2.0\EMahall.Configurations.AssemblyInfoInputs.cache
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\obj\Debug\netstandard2.0\EMahall.Configurations.AssemblyInfo.cs
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\obj\Debug\netstandard2.0\EMahall.Configurations.dll
+C:\Users\Anoop\Documents\Projects\E-Mahall\EMahall\EMahall.Configurations\obj\Debug\netstandard2.0\EMahall.Configurations.pdb

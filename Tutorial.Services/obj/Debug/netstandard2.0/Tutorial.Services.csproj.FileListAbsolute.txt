@@ -1,0 +1,7 @@
+D:\Projects\Tutorial\EMahall-API\EMahall.Services\bin\Debug\netstandard2.0\Tutorial.Services.deps.json
+D:\Projects\Tutorial\EMahall-API\EMahall.Services\bin\Debug\netstandard2.0\Tutorial.Services.dll
+D:\Projects\Tutorial\EMahall-API\EMahall.Services\bin\Debug\netstandard2.0\Tutorial.Services.pdb
+D:\Projects\Tutorial\EMahall-API\EMahall.Services\obj\Debug\netstandard2.0\Tutorial.Services.AssemblyInfoInputs.cache
+D:\Projects\Tutorial\EMahall-API\EMahall.Services\obj\Debug\netstandard2.0\Tutorial.Services.AssemblyInfo.cs
+D:\Projects\Tutorial\EMahall-API\EMahall.Services\obj\Debug\netstandard2.0\Tutorial.Services.dll
+D:\Projects\Tutorial\EMahall-API\EMahall.Services\obj\Debug\netstandard2.0\Tutorial.Services.pdb

@@ -1,0 +1,17 @@
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\Startup.exe
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\Startup.deps.json
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\Startup.runtimeconfig.json
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\Startup.runtimeconfig.dev.json
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\Startup.dll
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\bin\Debug\netcoreapp3.0\Startup.pdb
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\staticwebassets\Startup.StaticWebAssets.Manifest.cache
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\staticwebassets\Startup.StaticWebAssets.xml
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\Startup.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\Startup.AssemblyInfoInputs.cache
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\Startup.AssemblyInfo.cs
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\Startup.RazorTargetAssemblyInfo.cache
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\Startup.dll
+C:\Users\Anoop\Documents\Projects\E-Mahall\E-Mahall\API\obj\Debug\netcoreapp3.0\Startup.pdb
